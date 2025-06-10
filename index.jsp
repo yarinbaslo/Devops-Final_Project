@@ -5,7 +5,7 @@
     <title>Simple JSP Web App</title>
 </head>
 <body>
-    <h1>Welcome to Our Simple JSP Web App</h1>
+    <h1>Welcome to My Simple JSP Web App</h1>
 
     <form method="post">
         <label for="username">Enter your name:</label>
