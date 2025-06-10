@@ -8,7 +8,7 @@
     <h1>Welcome to My Simple JSP Web App</h1>
 
     <form method="post">
-        <label for="username">Enter your name:</label>
+        <label for="username">Enter your first name:</label>
         <input type="text" id="username" name="username" />
         <input type="submit" value="Submit" />
     </form>
